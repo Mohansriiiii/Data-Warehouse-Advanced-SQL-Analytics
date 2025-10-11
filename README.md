@@ -34,12 +34,13 @@ Used **Common Table Expressions (CTEs)** and **Window Functions** for advanced r
 ---
 
 ## 🗂️ Project Structure  
-
-'''DATA WAREHOUSE AND ADVANCED SQL ANALYTICS/
+```
+DATA WAREHOUSE AND ADVANCED SQL ANALYTICS/
 │
 ├── DATA/ # Raw and cleaned datasets (CRM & ERP)
 ├── DATA WAREHOUSE/ # Warehouse schema and architecture files
 ├── SQL SCRIPTS/ # ETL, transformations, and analytical queries
 └── README.md # Project documentation
-'''
+```
+
 
