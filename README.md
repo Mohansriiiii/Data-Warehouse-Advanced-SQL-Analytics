@@ -63,5 +63,6 @@ DATA WAREHOUSE AND ADVANCED SQL ANALYTICS/
 ## 📁 How to Use  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
+   git clone https://github.com/DANDUPRANITHASHARONRAJ/Data-Warehouse-Advanced-SQL-Analytics.git
+
   ```
