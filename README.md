@@ -43,4 +43,25 @@ DATA WAREHOUSE AND ADVANCED SQL ANALYTICS/
 └── README.md # Project documentation
 ```
 
+---
 
+## ⚙️ Tools & Technologies  
+- **Database:** MS SQL Server  
+- **Data Modeling:** Star Schema, Medallion Architecture  
+- **Languages:** SQL (CTEs, Window Functions, Joins, Aggregations)  
+- **Version Control:** Git & GitHub  
+
+---
+
+## 📊 Results & Insights  
+- Integrated multi-source data with 100% schema consistency.  
+- Reduced query complexity using optimized warehouse design.  
+- Delivered automated SQL reports on customer and product performance.  
+
+---
+
+## 📁 How to Use  
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/<your-username>/<your-repo-name>.git
+  ```
